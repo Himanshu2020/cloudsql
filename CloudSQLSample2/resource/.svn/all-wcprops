@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/CloudSQLSample2/resource
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/CloudSQLSample2/resource/database.properties
+END
+CustomerBean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/CloudSQLSample2/resource/CustomerBean.xml
+END
+DataSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/CloudSQLSample2/resource/DataSource.xml
+END
+SpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/CloudSQLSample2/resource/SpringBeans.xml
+END
+HibernateSessionFactory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/CloudSQLSample2/resource/HibernateSessionFactory.xml
+END
+Customer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/CloudSQLSample2/resource/Customer.properties
+END

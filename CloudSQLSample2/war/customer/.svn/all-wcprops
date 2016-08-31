@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/customer
+END
+add_customer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/customer/add_customer.jsp
+END
+list_customer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/customer/list_customer.jsp
+END
+search_customer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/customer/search_customer.jsp
+END

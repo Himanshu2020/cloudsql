@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/16/trunk/CloudSQLSample2/war/WEB-INF
+END
+struts-nested.tld
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/WEB-INF/struts-nested.tld
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/WEB-INF/struts-config.xml
+END
+struts-html.tld
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/WEB-INF/struts-html.tld
+END
+struts-bean.tld
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/WEB-INF/struts-bean.tld
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/WEB-INF/web.xml
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/WEB-INF/appengine-web.xml
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/WEB-INF/logging.properties
+END
+struts-logic.tld
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/WEB-INF/struts-logic.tld
+END
+struts-tiles.tld
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/CloudSQLSample2/war/WEB-INF/struts-tiles.tld
+END
